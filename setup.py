@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="turnout_tier_categorization",
-    version="0.1.0",
+    version="0.2.1",
     author="David White",
     author_email="david@generationdata.org",
     description="A function to add a turnout tier categorization column to a pandas DataFrame",

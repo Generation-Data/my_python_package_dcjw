@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: turnout-tier-categorization
-Version: 0.1.0
+Name: turnout_tier_categorization
+Version: 0.2.0
 Summary: A function to add a turnout tier categorization column to a pandas DataFrame
 Home-page: https://github.com/davidwhite/turnout_tier_categorization
 Author: David White
@@ -11,6 +11,7 @@ Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE.txt
+Requires-Dist: pandas>=1.0
 
 # Turnout Tier Categorization
 

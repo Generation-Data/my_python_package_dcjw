@@ -1,2 +1,2 @@
-my_python_package_dcjw
+analytics
 tests
